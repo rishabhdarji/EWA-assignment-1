@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Doorbell Pro",
+    "category": "Smart Doorbells",
+    "price": 129.99,
+    "description": "Advanced doorbell with 1080p camera and motion detection."
+  },
+  {
+    "id": 2,
+    "name": "Smart Doorbell Basic",
+    "category": "Smart Doorbells",
+    "price": 79.99,
+    "description": "Basic doorbell with motion sensor and 720p camera."
+  },
+  {
+    "id": 3,
+    "name": "Ultra HD Doorbell",
+    "category": "Smart Doorbells",
+    "price": 159.99,
+    "description": "Ultra HD camera with night vision and two-way communication."
+  },
+  {
+    "id": 4,
+    "name": "Compact Smart Doorbell",
+    "category": "Smart Doorbells",
+    "price": 99.99,
+    "description": "Compact doorbell with wide-angle camera."
+  },
+  {
+    "id": 5,
+    "name": "Wireless Smart Doorbell",
+    "category": "Smart Doorbells",
+    "price": 119.99,
+    "description": "Wireless installation with rechargeable battery."
+  },
+  {
+    "id": 6,
+    "name": "AI-Powered Doorbell",
+    "category": "Smart Doorbells",
+    "price": 189.99,
+    "description": "AI face recognition and real-time alerts."
+  },
+  {
+    "id": 7,
+    "name": "Eco-Friendly Doorbell",
+    "category": "Smart Doorbells",
+    "price": 89.99,
+    "description": "Solar-powered smart doorbell."
+  },
+  {
+    "id": 8,
+    "name": "Night Vision Doorbell",
+    "category": "Smart Doorbells",
+    "price": 139.99,
+    "description": "High-quality night vision with infrared sensors."
+  },
+  {
+    "id": 9,
+    "name": "Waterproof Doorbell",
+    "category": "Smart Doorbells",
+    "price": 109.99,
+    "description": "Waterproof design with enhanced durability."
+  },
+  {
+    "id": 10,
+    "name": "Voice Controlled Doorbell",
+    "category": "Smart Doorbells",
+    "price": 149.99,
+    "description": "Compatible with Alexa and Google Assistant."
+  },
+  {
+    "id": 11,
+    "name": "4K Ultra Doorbell",
+    "category": "Smart Doorbells",
+    "price": 199.99,
+    "description": "4K camera with facial recognition."
+  },
+  {
+    "id": 12,
+    "name": "Smart Doorbell Max",
+    "category": "Smart Doorbells",
+    "price": 159.99,
+    "description": "Smart doorbell with two-way audio and app integration."
+  },
+  {
+    "id": 13,
+    "name": "Smart Doorlock Secure",
+    "category": "Smart Doorlocks",
+    "price": 179.99,
+    "description": "Keyless entry with fingerprint and PIN options."
+  },
+  {
+    "id": 14,
+    "name": "Smart Doorlock Elite",
+    "category": "Smart Doorlocks",
+    "price": 249.99,
+    "description": "Advanced doorlock with biometric and voice control."
+  },
+  {
+    "id": 15,
+    "name": "Smart Doorlock Slim",
+    "category": "Smart Doorlocks",
+    "price": 149.99,
+    "description": "Slim design with remote access through the mobile app."
+  },
+  {
+    "id": 16,
+    "name": "Smart Doorlock Touch",
+    "category": "Smart Doorlocks",
+    "price": 199.99,
+    "description": "Touchscreen doorlock with anti-theft features."
+  },
+  {
+    "id": 17,
+    "name": "Weatherproof Doorlock",
+    "category": "Smart Doorlocks",
+    "price": 189.99,
+    "description": "Weatherproof design with enhanced security features."
+  },
+  {
+    "id": 18,
+    "name": "Keypad Doorlock",
+    "category": "Smart Doorlocks",
+    "price": 139.99,
+    "description": "Classic smart lock with digital keypad."
+  },
+  {
+    "id": 19,
+    "name": "Bluetooth Doorlock",
+    "category": "Smart Doorlocks",
+    "price": 129.99,
+    "description": "Bluetooth-enabled doorlock with app control."
+  },
+  {
+    "id": 20,
+    "name": "AI Secure Doorlock",
+    "category": "Smart Doorlocks",
+    "price": 229.99,
+    "description": "AI-powered security with voice control."
+  },
+  {
+    "id": 21,
+    "name": "Fingerprint Doorlock",
+    "category": "Smart Doorlocks",
+    "price": 179.99,
+    "description": "Biometric fingerprint access with anti-hacking technology."
+  },
+  {
+    "id": 22,
+    "name": "Smart Speaker Mini",
+    "category": "Smart Speakers",
+    "price": 49.99,
+    "description": "Compact speaker with voice assistant integration."
+  },
+  {
+    "id": 23,
+    "name": "Smart Speaker Max",
+    "category": "Smart Speakers",
+    "price": 119.99,
+    "description": "High-fidelity audio with multi-room connectivity."
+  },
+  {
+    "id": 24,
+    "name": "Voice-Controlled Speaker",
+    "category": "Smart Speakers",
+    "price": 99.99,
+    "description": "Hands-free control with Alexa and Google Assistant."
+  },
+  {
+    "id": 25,
+    "name": "Smart Sound Speaker",
+    "category": "Smart Speakers",
+    "price": 89.99,
+    "description": "Enhanced bass and treble with built-in assistant."
+  },
+  {
+    "id": 26,
+    "name": "Portable Smart Speaker",
+    "category": "Smart Speakers",
+    "price": 79.99,
+    "description": "Portable and wireless with long battery life."
+  },
+  {
+    "id": 27,
+    "name": "Home Theater Speaker",
+    "category": "Smart Speakers",
+    "price": 149.99,
+    "description": "Smart speaker with home theater surround sound."
+  },
+  {
+    "id": 28,
+    "name": "Waterproof Smart Speaker",
+    "category": "Smart Speakers",
+    "price": 129.99,
+    "description": "Waterproof design with enhanced sound quality."
+  },
+  {
+    "id": 29,
+    "name": "AI Smart Speaker",
+    "category": "Smart Speakers",
+    "price": 139.99,
+    "description": "AI-powered speaker with voice commands."
+  },
+  {
+    "id": 30,
+    "name": "Smart Speaker HD",
+    "category": "Smart Speakers",
+    "price": 159.99,
+    "description": "High-definition sound with dynamic range."
+  },
+  {
+    "id": 31,
+    "name": "Smart Light Bulb",
+    "category": "Smart Lightings",
+    "price": 29.99,
+    "description": "Energy-efficient bulb with remote control."
+  },
+  {
+    "id": 32,
+    "name": "Smart LED Strip",
+    "category": "Smart Lightings",
+    "price": 39.99,
+    "description": "Color-changing LED strip with app integration."
+  },
+  {
+    "id": 33,
+    "name": "Motion Sensor Light",
+    "category": "Smart Lightings",
+    "price": 49.99,
+    "description": "Smart light with motion detection and night mode."
+  },
+  {
+    "id": 34,
+    "name": "Smart Chandelier",
+    "category": "Smart Lightings",
+    "price": 199.99,
+    "description": "Luxury smart chandelier with adjustable brightness."
+  },
+  {
+    "id": 35,
+    "name": "Voice-Controlled Lamp",
+    "category": "Smart Lightings",
+    "price": 79.99,
+    "description": "Table lamp with voice control and brightness settings."
+  },
+  {
+    "id": 36,
+    "name": "Outdoor Smart Light",
+    "category": "Smart Lightings",
+    "price": 59.99,
+    "description": "Weatherproof outdoor light with smart control."
+  },
+  {
+    "id": 37,
+    "name": "Dimmable Smart Bulb",
+    "category": "Smart Lightings",
+    "price": 34.99,
+    "description": "Dimmable smart bulb with multiple brightness levels."
+  },
+  {
+    "id": 38,
+    "name": "Smart Light Panel",
+    "category": "Smart Lightings",
+    "price": 149.99,
+    "description": "Customizable light panel for home décor."
+  },
+  {
+    "id": 39,
+    "name": "RGB Smart Bulb",
+    "category": "Smart Lightings",
+    "price": 39.99,
+    "description": "RGB color bulb with app control and automation."
+  },
+  {
+    "id": 40,
+    "name": "Energy Saver Light",
+    "category": "Smart Lightings",
+    "price": 49.99,
+    "description": "Energy-saving smart light with solar charging."
+  },
+  {
+    "id": 41,
+    "name": "Smart Thermostat Basic",
+    "category": "Smart Thermostats",
+    "price": 199.99,
+    "description": "Basic thermostat with mobile app control."
+  },
+  {
+    "id": 42,
+    "name": "Smart Thermostat Pro",
+    "category": "Smart Thermostats",
+    "price": 299.99,
+    "description": "Advanced thermostat with energy-saving features."
+  },
+  {
+    "id": 43,
+    "name": "Smart Thermostat Max",
+    "category": "Smart Thermostats",
+    "price": 399.99,
+    "description": "Top-of-the-line thermostat with AI learning."
+  },
+  {
+    "id": 44,
+    "name": "Wireless Thermostat",
+    "category": "Smart Thermostats",
+    "price": 179.99,
+    "description": "Wireless installation and control from anywhere."
+  },
+  {
+    "id": 45,
+    "name": "Solar Powered Thermostat",
+    "category": "Smart Thermostats",
+    "price": 249.99,
+    "description": "Solar-powered thermostat with smart automation."
+  },
+  {
+    "id": 46,
+    "name": "Smart Eco Thermostat",
+    "category": "Smart Thermostats",
+    "price": 199.99,
+    "description": "Eco-friendly thermostat with energy consumption tracking."
+  },
+  {
+    "id": 47,
+    "name": "Voice-Activated Thermostat",
+    "category": "Smart Thermostats",
+    "price": 269.99,
+    "description": "Voice control with Alexa and Google integration."
+  },
+  {
+    "id": 48,
+    "name": "AI Thermostat",
+    "category": "Smart Thermostats",
+    "price": 349.99,
+    "description": "AI-powered learning to optimize energy usage."
+  },
+  {
+    "id": 49,
+    "name": "Touchscreen Thermostat",
+    "category": "Smart Thermostats",
+    "price": 229.99,
+    "description": "Touchscreen control with custom schedules."
+  },
+  {
+    "id": 50,
+    "name": "Smart Temperature Control",
+    "category": "Smart Thermostats",
+    "price": 199.99,
+    "description": "Temperature control with mobile alerts."
+  }
+]

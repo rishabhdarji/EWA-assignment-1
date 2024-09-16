@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Doorbell",
+    "category": "Smart Doorbells",
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "name": "Smart Lock",
+    "category": "Smart Doorlocks",
+    "price": 149.99
+  },
+  {
+    "id": 3,
+    "name": "Smart Speaker",
+    "category": "Smart Speakers",
+    "price": 89.99
+  },
+  {
+    "id": 4,
+    "name": "Smart Lighting",
+    "category": "Smart Lightings",
+    "price": 59.99
+  },
+  {
+    "id": 5,
+    "name": "Smart Thermostat",
+    "category": "Smart Thermostats",
+    "price": 199.99
+  }
+]
